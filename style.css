@@ -1,0 +1,16 @@
+.item p{
+    flex: 1;/*pour prendre le plus de place possible*/
+    padding: 2rem;
+}
+.item button{
+    font-size: 2rem;
+    margin: 1rem;
+}
+.item button.btn-archive{
+    font-size: 2rem;
+    background-color: rgb(128, 205, 128);
+}
+.item button.btn-delete{
+    font-size: 2rem;
+    background-color: rgb(188, 102, 102);
+}
